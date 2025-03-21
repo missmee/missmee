@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-Qui suis-je / Who am I __________________________________________________________________________________ 
+Qui suis-je / Who am I ____________________________________________________________________________ ______________________________
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFeghO8e8VSkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688554243862?e=1747872000&v=beta&t=Bix_Vw53lFzrkeB9NESEyzzz8CdSOzzwmIat727mQk0" />
 
-⇆ Une strate de culture web/internet et graphisme / One layer of web/internet culture and graphic design  
+⇆ Une strate de culture web/internet et graphisme | One layer of web/internet culture and graphic design  
 
-◰ Une strate de data journalisme et d'analyse de données  / One layer of data journalism and data analysis    
+◰ Une strate de data journalisme et d'analyse de données | One layer of data journalism and data analysis    
 
-⧉ Une strate de code : Python, SQL, HTML/CSS / One layer of coding: Python, SQL, HTML/CSS 
+⧉ Une strate de code : Python, SQL, HTML/CSS | One layer of coding: Python, SQL, HTML/CSS 
