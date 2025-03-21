@@ -20,6 +20,6 @@ Qui suis-je / Who am I _________________________________________________________
 
 ⇆ Une strate de culture web/internet et graphisme | One layer of web/internet culture and graphic design  
 
-◰ Une strate de data journalisme et d'analyse de données | One layer of data journalism and data analysis    
+◰ Une strate de data journalisme et d'analyse de données | One layer of data journalism and data analysis -> mes/my <a href="https://github.com/missmee/articles_data_et_datavis_publies">articles</a>    
 
 ⧉ Une strate de code : Python, SQL, HTML/CSS | One layer of coding: Python, SQL, HTML/CSS 
